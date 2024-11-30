@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Camilo López! ![wakatime](https://wakatime.com/badge/user/031d07fd-4d56-4a97-92ac-226e00c4c5ea.svg)
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 1.5em;">
-  <img src="./assets/github-header-image.png" alt="Github Banner" />
+<div style="display: flex; justify-content: center; align-items: center; padding: 1.5em; margin: auto;">
+  <img src="./assets/github-header-image.png" alt="Github Banner"/>
 </div>
 
 I am a dedicated web **developer** with expertise in _React_, _Next.js_, _Vue_, and _Astro_, specializing in crafting efficient, scalable, and results-driven web solutions. Renowned for my **commitment** and **responsibility**, I consistently deliver **high-quality projects on time, exceeding expectations.**
