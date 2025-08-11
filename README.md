@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Camilo López! ![wakatime](https://wakatime.com/badge/user/031d07fd-4d56-4a97-92ac-226e00c4c5ea.svg)
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 1.5em; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: center; padding: 1.5em; margin: auto;width: 100%;">
   <img src="./assets/github-header-image.png" alt="Github Banner"/>
 </div>
 
