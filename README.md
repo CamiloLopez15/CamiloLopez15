@@ -22,6 +22,7 @@ Here are some tools and technologies I frequently use:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=yellow&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=blue&style=flat)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=%233776AB)
 
 ### Frontend
 
@@ -55,6 +56,7 @@ Here are some tools and technologies I frequently use:
 ### Others
 
 ![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=#F05032&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=#FF6C37&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-000?logo=Redux&logoColor=764ABC&style=flat)
 
