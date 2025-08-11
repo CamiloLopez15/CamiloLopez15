@@ -53,6 +53,8 @@ Here are some tools and technologies I frequently use:
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase&logoColor=ffc400&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoColor=green&style=flat)
+![MySql](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000?style=flat&logo=postgresql)
 
 ### Others
 
