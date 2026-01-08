@@ -74,8 +74,7 @@ Here are some tools and technologies I frequently use:
 
 ## 📈 GitHub Stats
 
-![Camilo López's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloLopez15&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
-![Camilo López's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CamiloLopez15&theme=radical&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CamiloLopez15?cardType=level&theme=dracula&fontFamily=Adamina&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloLopez15&layout=donut-vertical&show_icons=true&theme=radical) -->
 
